@@ -264,3 +264,5 @@ ggplot(data=Iprec_ByDay, aes(x=month, y=max), color = month) + geom_point()
  
 rm(Dongsihuan,Dongsihuan_rain,Dongsihuan_stats,Dongsihuan.coeff,Dongsihuan.rcorr)
 rm(Iprec_ByDay,IWS_ByDayDirection,IWS_ByMonth,PM_ByMonth,cols)
+
+#a comment
